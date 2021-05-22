@@ -1,3 +1,9 @@
+/* You are given an array of N integers in which deletion can be performed at both the ends. Write a C++ program so that you remove exactly k elements out of the array from any end but always remove the greater element. Find the total of those elements.
+Eg. :  N = 8   k = 4
+       Array : 10   8   5   4   3   9   7   6
+       Removed elements: 10, 8, 6, 7
+       Sum of these elements = 31 */
+
 #include <iostream>
 using namespace std;
 
