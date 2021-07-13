@@ -5,7 +5,7 @@ Eg. :  N = 8   k = 4
        Array : 10   8   5   4   3   9   7   6
        Removed elements: 10, 8, 6, 7
        Sum of these elements = 31 */
-
+/*———————————————————————————————————————————————————————————————————————————*/  
 #include <iostream>
 using namespace std;
 
@@ -21,7 +21,7 @@ int sum = 0;
 int dequeue_front(){
     int x;
     if((f == -1) && (r == -1)){  
-        cout << "DEque is empty";  
+        cout << "Deque is empty";  
     }  
     else if(f == r){
         x = arr[f];
