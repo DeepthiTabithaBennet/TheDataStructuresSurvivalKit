@@ -91,7 +91,7 @@ int main(){
             sum += dequeue_rear();
         }
     }
-    cout << "\nsum = "<< sum << endl;;   
+    cout << "\nsum = " << sum << endl;;   
     
     return 0;
 }
