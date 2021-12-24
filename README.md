@@ -6,5 +6,13 @@
 
 ### In Collaboration with [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !
 
+### Table Of Contents :
+
+### Stack
+  * [Stack - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack.cpp)
+  * [Stack Using Linked List](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack_Using_Linked_List.cpp)
+  * [Balanced Parantheses Checker](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Balanced_Parantheses_Checker.cpp)
+  * [Stack with the Smallest Element always at the Bottom](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Smallest_Element_at_Bottom.cpp)
+  * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/STL_Queue_Using_Stack.cpp)
 
 ### Please leave a 🌟 before you fork / clone this repo! 😃
