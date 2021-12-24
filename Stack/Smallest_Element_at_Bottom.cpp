@@ -29,7 +29,7 @@ struct Queue{
   int deQueue(){
     // if first stack is empty
     if (s1.empty()) {
-      cout << "Q is Empty";
+      cout << "Queue is Empty";
       exit(0);
     }
 
