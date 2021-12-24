@@ -2,11 +2,15 @@
 
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">   <img src="https://img.shields.io/github/repo-size/DeepthiTabithaBennet/TheDataStructuresSurvivalKit?color=blue&style=for-the-badge" height="30">
 
-## ✨ The Data Structures Survival Kit ✨
+# ✨ The Data Structures Survival Kit ✨
 
 ### In Collaboration with [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !
 
+----
+
 ### Table Of Contents :
+
+----
 
 #### [`Stack`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Stack)
   * [Stack - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack.cpp)
@@ -15,4 +19,13 @@
   * [Stack with the Smallest Element always at the Bottom](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Smallest_Element_at_Bottom.cpp)
   * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/STL_Queue_Using_Stack.cpp)
 
+----
+
+#### [`Hash Table`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/HashTable)
+  * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
+
+----
+
 ### Please leave a 🌟 before you fork / clone this repo! 😃
+
+----
