@@ -20,6 +20,8 @@
   * [Stack with the Smallest Element always at the Bottom](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Smallest_Element_at_Bottom.cpp)
   * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/STL_Queue_Using_Stack.cpp)
   * [Two Stacks using a Single Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Two_Stacks_With_Single_Array.cpp)
+  * [Infix to Prefix](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Infix_to_Prefix.cpp)
+  * [Infix to Postfix](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Infix_to_Postfix.cpp)
 
 ----
 
