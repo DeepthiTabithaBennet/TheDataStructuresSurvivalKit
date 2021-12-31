@@ -26,6 +26,14 @@
 
 ----
 
+#### [`Queue`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Queue)
+  * [Circular Queue - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue.cpp)
+  * [Sum of Larger elements at the ends of a Deque](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Deque_SumOfLargerElementsAtEnds.cpp)
+  * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Queue_Using_Stack.cpp)
+  * [STL - Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/STL_Queue_Using_Stack.cpp)
+
+----
+
 #### [`Hash Table`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/HashTable)
   * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
 
