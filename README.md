@@ -6,6 +6,8 @@
 
 ### In Collaboration with [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !
 
+### Please leave a 🌟 before you fork / clone this repo! 😃
+
 ----
 
 ### Table Of Contents :
@@ -36,9 +38,5 @@
 
 #### [`Hash Table`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/HashTable)
   * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
-
-----
-
-### Please leave a 🌟 before you fork / clone this repo! 😃
 
 ----
