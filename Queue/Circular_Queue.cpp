@@ -58,7 +58,7 @@ void QUEUE::deleteCQ(){
 /*---------------------------------------------------------------------------*/
 void QUEUE :: displayCQ(){
     int f = front;
-    r = rear;
+    int r = rear;
   
     if(f <= r){
         while(f <= r){
