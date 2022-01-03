@@ -30,6 +30,8 @@
 
 #### [`Queue`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Queue)
   * [Circular Queue - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue.cpp)
+  * [Circular Queue - User Defined DataType as Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue_User_Defined_Datatype_Elements.cpp)
+  * [Deque](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Deque.cpp)
   * [Sum of Larger elements at the ends of a Deque](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Deque_SumOfLargerElementsAtEnds.cpp)
   * [Comparison of Two Circular Queues](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Comparison_of_Two_Circular_Queues.cpp)
   * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Queue_Using_Stack.cpp)
