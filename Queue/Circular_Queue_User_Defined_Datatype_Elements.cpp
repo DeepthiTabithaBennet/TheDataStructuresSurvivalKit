@@ -1,4 +1,4 @@
-// This program stores the data of various batsmen in a corcular queue and prints the data of the batsman with the highest number of runs
+// This program stores the data of various batsmen in a circular queue and prints the data of the batsman with the highest number of runs
 
 #include <iostream>
 #include <string.h>
