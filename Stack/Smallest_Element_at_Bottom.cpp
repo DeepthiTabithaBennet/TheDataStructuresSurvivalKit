@@ -9,7 +9,7 @@ struct Queue{
 
   void enQueue(int x){
     // Move all elements from s1 to s2
-    while (!s1.empty() && x < s1.top()) {
+    while (!s1.empty() && x < s1.top()) {  // IMPORTANT !
       s2.push(s1.top());
       s1.pop();
     }
