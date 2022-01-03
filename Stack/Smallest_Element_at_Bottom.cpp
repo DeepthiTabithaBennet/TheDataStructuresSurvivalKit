@@ -1,4 +1,4 @@
-/* Write a C++ program to create a stack such that smallest element always stays at the bottom of the stack */
+/* Write a C++ program to create a stack such that smallest element always stays at the bottom (also, largest element always stays at the top) of the stack */
 
 #include <iostream>
 #include <stack>
