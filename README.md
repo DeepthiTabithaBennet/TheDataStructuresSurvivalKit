@@ -43,5 +43,6 @@
 
 #### [`Hash Table`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/HashTable)
   * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
+  * [STL - Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/STL_HashTable.cpp)
 
 ----
