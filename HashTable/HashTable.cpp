@@ -114,11 +114,12 @@ int main() {
             case (4):
                 cout << "Enter the Element to be Checked : ";
                 cin >> key;
-              if (h.Search(key))
-                cout << key << " is present in the Hash Table in bucket " << h.Search(key) << endl;
-            else
-                cout << key << " is not present in the Hash Table\n";
-          break;
+                
+                if (h.Search(key))
+                    cout << key << " is present in the Hash Table in bucket " << h.Search(key) << endl;
+                else
+                    cout << key << " is not present in the Hash Table\n";
+                break;
           
             case (5):
                 break;
