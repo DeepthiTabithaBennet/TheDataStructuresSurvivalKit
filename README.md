@@ -20,6 +20,7 @@
 
 #### [`Array`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Array)
   * [Delete at a Specified Position](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Delete_at_Specified_Position.cpp)
+  * [Largest and Smallest Element in an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Largest_and_Smallest_Element_in_an_Array.cpp)
 
 ----
 
