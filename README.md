@@ -2,7 +2,11 @@
 
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/github/repo-size/DeepthiTabithaBennet/TheDataStructuresSurvivalKit?color=blue&style=for-the-badge">   <img src="https://img.shields.io/tokei/lines/github/DeepthiTabithaBennet/TheDataStructuresSurvivalKit?style=for-the-badge">
 
+----
+
 # ✨ The Data Structures Survival Kit ✨
+
+----
 
 ### In Collaboration with [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !
 
@@ -11,6 +15,11 @@
 ----
 
 ### Table Of Contents :
+
+----
+
+#### [`Array`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Array)
+  * [Delete at a Specified Position](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Delete_at_Specified_Position.cpp)
 
 ----
 
