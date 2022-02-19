@@ -21,7 +21,8 @@
 #### [`Array`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Array)
   * [Delete at a Specified Position](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Delete_at_Specified_Position.cpp)
   * [Largest and Smallest Element in an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Largest_and_Smallest_Element_in_an_Array.cpp)
-  * [Maximum Ansolute Difference of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Maximum_Absolute_Difference.cpp)
+  * [Maximum Absolute Difference of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Maximum_Absolute_Difference.cpp)
+  * [Merging Two Arrays Using Pointers](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Merge_Two_Arrays_Using_Pointers.cpp)
 
 ----
 
