@@ -6,60 +6,117 @@
 
 # ✨ The Data Structures Survival Kit ✨
 
-----
-
 ### In Collaboration with [`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet) !
 
-### Please leave a 🌟 before you fork / clone this repo! 😃
+
 
 ----
 
 ### Table Of Contents :
 
-----
+[//]: # (---------------------------------------------------------------------------------------------)
 
-#### [`Array`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Array)
+<details>
+<summary> Array </summary>
+<p> 
+     
   * [Delete at a Specified Position](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Delete_at_Specified_Position.cpp)
-  * [Largest and Smallest Element in an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Largest_and_Smallest_Element_in_an_Array.cpp)
+ 
+  * [Largest and Smallest Element in an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Largest_and_Smallest_Element_in_an_Array.cpp) 
+ 
   * [Maximum Absolute Difference of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Maximum_Absolute_Difference.cpp)
+ 
   * [Merging Two Arrays Using Pointers](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Merge_Two_Arrays_Using_Pointers.cpp)
+ 
   * [Mode of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Mode_of_an_Array.cpp)
+ 
   * [Number of Duplicate Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Number_of_Duplicate_Elements.cpp)
+ 
+</p>
+</details>
 
-----
+[//]: # (---------------------------------------------------------------------------------------------)
 
-#### [`Stack`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Stack)
+<details>
+<summary> Stack </summary>
+<p> 
+     
   * [Stack - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack.cpp)
+ 
   * [Stack - User Defined DataType as Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack_User_Defined_Datatype_Elements.cpp)
+ 
   * [Stack Using Linked List](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack_Using_Linked_List.cpp)
+ 
   * [Balanced Parentheses Checker](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Balanced_Parentheses_Checker.cpp)
+ 
   * [Stack with the Smallest Element always at the Bottom (Largest Element always at the Top)](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Smallest_Element_at_Bottom.cpp)
+ 
   * [Stack with the Largest Element always at the Bottom (Smallest Element always at the Top)](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Largest_Element_at_Bottom.cpp)
+ 
   * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Queue_Using_Stack.cpp)
+ 
   * [STL - Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/STL_Queue_Using_Stack.cpp)
+ 
   * [Two Stacks using a Single Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Two_Stacks_With_Single_Array.cpp)
+ 
   * [Infix to Prefix](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Infix_to_Prefix.cpp)
+ 
   * [Infix to Postfix](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Infix_to_Postfix.cpp)
+ 
+</p>
+</details>
 
-----
+[//]: # (---------------------------------------------------------------------------------------------)
 
-#### [`Queue`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Queue)
+<details>
+<summary> Queue </summary>
+<p> 
+     
   * [Circular Queue - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue.cpp)
+ 
   * [Circular Queue - User Defined DataType as Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue_User_Defined_Datatype_Elements.cpp)
+ 
   * [Queue Using Linked List](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Queue_Using_Linked_List.cpp)
+ 
   * [Deque](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Deque.cpp)
+ 
   * [Sum of Larger elements at the ends of a Deque](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Deque_SumOfLargerElementsAtEnds.cpp)
+ 
   * [Comparison of Two Circular Queues](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Comparison_of_Two_Circular_Queues.cpp)
+ 
   * [Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Queue_Using_Stack.cpp)
+ 
   * [STL - Queue Using Stack](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/STL_Queue_Using_Stack.cpp)
 
-----
+</p>
+</details>
 
-#### [`Hash Table`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/HashTable)
+[//]: # (---------------------------------------------------------------------------------------------)
+
+<details>
+<summary> Hash Table </summary>
+<p> 
+
   * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
+ 
   * [STL - Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/STL_HashTable.cpp)
 
+ </p>
+</details>
+ 
+[//]: # (---------------------------------------------------------------------------------------------)
+
+<details>
+<summary> Heap </summary>
+<p> 
+ 
+  * [Binomial Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/Binomial_Heap.cpp)
+
+  </p>
+</details>
+
 ----
 
-#### [`Heap`](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/tree/main/Heap)
-  * [Binomial Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/Binomial_Heap.cpp)
+### Please leave a 🌟 before you fork / clone this repo! 😃
+
+----
