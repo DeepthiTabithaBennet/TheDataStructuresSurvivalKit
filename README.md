@@ -23,6 +23,7 @@
   * [Largest and Smallest Element in an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Largest_and_Smallest_Element_in_an_Array.cpp)
   * [Maximum Absolute Difference of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Maximum_Absolute_Difference.cpp)
   * [Merging Two Arrays Using Pointers](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Merge_Two_Arrays_Using_Pointers.cpp)
+  * [Mode of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Mode_of_an_Array.cpp)
 
 ----
 
