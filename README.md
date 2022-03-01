@@ -24,6 +24,7 @@
   * [Maximum Absolute Difference of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Maximum_Absolute_Difference.cpp)
   * [Merging Two Arrays Using Pointers](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Merge_Two_Arrays_Using_Pointers.cpp)
   * [Mode of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Mode_of_an_Array.cpp)
+  * [Number of Duplicate Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Number_of_Duplicate_Elements.cpp)
 
 ----
 
