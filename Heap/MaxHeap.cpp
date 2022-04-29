@@ -5,11 +5,11 @@ using namespace std;
 // Prototype of a utility function to swap two integers
 void Swap(int* x, int* y);
 /*———————————————————————————————————————————————————————————————————————————*/
-// A class for Min Heap
+// A class for Max Heap
 class MaxHeap{
     int* harr; // pointer to array of elements in heap
-    int capacity; // maximum possible size of min heap
-    int HeapSize; // Current number of elements in min heap
+    int capacity; // maximum possible size of max heap
+    int HeapSize; // Current number of elements in ma  heap
 public:
     // Constructor
     MaxHeap(int capacity);
@@ -34,10 +34,10 @@ public:
     // to extract the root which is the maximum element
     int ExtractMax();
   
-    // Decreases key value of key at index i to new_val
+    // Increases key value of key at index i to new_val
     void IncreaseKey(int i, int NewVal);
   
-    // Returns the minimum key (key at root) from min heap
+    // Returns the maximum key (key at root) from max heap
     int GetMax(){
         return harr[0];
     }
@@ -74,15 +74,15 @@ void MaxHeap::InsertKey(int k){
     int i = HeapSize - 1;
     harr[i] = k;
   
-    // Fix the min heap property if it is violated
+    // Fix the max heap property if it is violated
     while (i != 0 && harr[parent(i)] > harr[i]){
         Swap(&harr[i], &harr[parent(i)]);
         i = parent(i);
     }
 }
 /*———————————————————————————————————————————————————————————————————————————*/
-// Decreases value of key at index 'i' to new_val.  It is assumed that new_val is smaller than harr[i].
-void MinHeap::IncreaseKey(int i, int NewVal){
+// Increases value of key at index 'i' to new_val.  It is assumed that new_val is larger than harr[i].
+void MaxHeap::IncreaseKey(int i, int NewVal){
     harr[i] = NewVal;
     while (i != 0 && harr[parent(i)] > harr[i]){
         Swap(&harr[i], &harr[parent(i)]);
@@ -90,7 +90,7 @@ void MinHeap::IncreaseKey(int i, int NewVal){
     }
 }
 /*———————————————————————————————————————————————————————————————————————————*/
-// Method to remove minimum element (or root) from min heap
+// Method to remove maximum element (or root) from max heap
 int MaxHeap::ExtractMax(){
     if (HeapSize <= 0)
         return INT_MIN;
@@ -100,7 +100,7 @@ int MaxHeap::ExtractMax(){
         return harr[0];
     }
   
-    // Store the minimum value, and remove it from heap
+    // Store the maximum value, and remove it from heap
     int root = harr[0];
     harr[0] = harr[HeapSize-1];
     HeapSize--;
@@ -109,10 +109,9 @@ int MaxHeap::ExtractMax(){
     return root;
 }
 /*———————————————————————————————————————————————————————————————————————————*/
-// This function deletes key at index i. It first reduced value to minus
-// infinite, then calls extractMin()
+// This function deletes key at index i. It first reduced value to infinite, then calls extractMax()
 void MaxHeap::DeleteKey(int i){
-    DecreaseKey(i, INT_MAX);
+    IncreaseKey(i, INT_MAX);
     ExtractMax();
 }
 /*———————————————————————————————————————————————————————————————————————————*/
@@ -142,7 +141,7 @@ void MaxHeap::HeapSort(){
     
         HeapSize--;
         
-        // call min heapify on the reduced heap
+        // call max heapify on the reduced heap
         MaxHeapify(0);
     }
     HeapSize = x;
@@ -158,7 +157,7 @@ void MaxHeap::NthMax(int n){
     
         HeapSize--;
         
-        // call min heapify on the reduced heap
+        // call max heapify on the reduced heap
         MaxHeapify(0);
     }
     cout << n;
@@ -190,11 +189,11 @@ int main(){
     int ch, a, b, c, d, n;
     cout << "\n1 —————> Insert Key \n";
     cout << "2 —————> Delete Key \n";
-    cout << "3 —————> Decrease Key \n";
-    cout << "4 —————> Extract Min \n";
-    cout << "5 —————> Get Min \n";
+    cout << "3 —————> Increase Key \n";
+    cout << "4 —————> Extract Max \n";
+    cout << "5 —————> Get Max \n";
     cout << "6 —————> Heap Sort \n";
-    cout << "7 —————> Delete the nth Minimum Element \n";
+    cout << "7 —————> Delete the nth Maximum Element \n";
     cout << "8 —————> Display \n";
     cout << "9 —————> Exit \n";
   
@@ -205,31 +204,31 @@ int main(){
         switch(ch){
     
             case (1):
-                cout << "Enter the Key to be Inserted to the Min Heap : ";
+                cout << "Enter the Key to be Inserted to the Max Heap : ";
                 cin >> a;
                 h.InsertKey(a);
                 break;
         
             case (2):
-                cout << "Enter the Index to be Deleted from the Min Heap : ";
+                cout << "Enter the Index to be Deleted from the Max Heap : ";
                 cin >> b;
                 h.DeleteKey(b);
                 break;
                 
             case (3):
-                cout << "Which Index do you want to Decrease : ";
+                cout << "Which Index do you want to Increase : ";
                 cin >> c;
-                cout << "Decrease to : ";
+                cout << "Inrease to : ";
                 cin >> d;
                 h.IncreaseKey(c, d);
                 break;
                 
             case (4):
-                cout << "Extract Min : " << h.ExtractMax() << endl;
+                cout << "Extract Max : " << h.ExtractMax() << endl;
                 break;
                 
             case (5):
-                cout << "Get Min : " << h.GetMax() << endl;
+                cout << "Get Max : " << h.GetMax() << endl;
                 break;
                 
             case (6):
