@@ -12,7 +12,7 @@
 
 ----
 
-### Table Of Contents :
+### Table Of Contents (Click to Expand) :
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -31,6 +31,13 @@
   * [Mode of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Mode_of_an_Array.cpp)
  
   * [Number of Duplicate Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Number_of_Duplicate_Elements.cpp)
+     
+  * [Removal of Prime Numbers](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Removal_of_Prime_Numbers.cpp)
+     
+  * [Removing Duplicate Elements](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Removing_Duplicate_Elements.cpp)
+     
+  * [Standard Deviation of an Array](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Standard_Deviation.c)
+
  
 </p>
 </details>
