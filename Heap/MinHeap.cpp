@@ -110,8 +110,7 @@ int MinHeap::ExtractMin(){
     return root;
 }
 /*———————————————————————————————————————————————————————————————————————————*/
-// This function deletes key at index i. It first reduced value to minus
-// infinite, then calls extractMin()
+// This function deletes key at index i. It first reduced value to minus infinite, then calls extractMin()
 void MinHeap::DeleteKey(int i){
     DecreaseKey(i, INT_MIN);
     ExtractMin();
@@ -149,7 +148,6 @@ void MinHeap::HeapSort(){
     HeapSize = x;
 }
 /*———————————————————————————————————————————————————————————————————————————*/
-// doesn't work 
 void MinHeap::NthMin(int n){
     int x = HeapSize;
 
