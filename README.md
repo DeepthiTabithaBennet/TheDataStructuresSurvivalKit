@@ -116,12 +116,12 @@
 <details>
 <summary> Heap </summary>
 <p> 
- 
-  * [Binomial Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/Binomial_Heap.cpp)
      
   * [Min Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/MinHeap.cpp)
    
   * [Max Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/MaxHeap.cpp)
+     
+  * [Binomial Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/Binomial_Heap.cpp)
      
   * [Heap Using Linked List](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/Heap_Using_Linked_List.cpp)
 
