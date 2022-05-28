@@ -101,6 +101,21 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
+<summary> Tree </summary>
+<p> 
+
+  * [Binary Search Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/Binary_Search_Tree.cpp)
+ 
+  * [AVL Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/AVL_Tree.cpp)
+  
+  * [Splay Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/Splay_Tree.cpp)
+
+ </p>
+</details>
+ 
+[//]: # (---------------------------------------------------------------------------------------------)
+
+<details>
 <summary> Hash Table </summary>
 <p> 
 
