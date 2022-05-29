@@ -159,6 +159,21 @@
   </p>
 </details>
 
+[//]: # (---------------------------------------------------------------------------------------------)
+
+<details>
+<summary> SET </summary>
+<p> 
+     
+  _(click to view)_
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
 ----
 
 ### Please leave a 🌟 before you fork / clone this repo! 😃
