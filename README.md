@@ -17,8 +17,10 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Array </summary>
+<summary> ARRAY </summary>
 <p> 
+  
+  _(click to view)_
      
   * [Delete at a Specified Position](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Array/Delete_at_Specified_Position.cpp)
  
@@ -45,8 +47,10 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Stack </summary>
+<summary> STACK </summary>
 <p> 
+     
+  _(click to view)_
      
   * [Stack - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Stack/Stack.cpp)
  
@@ -76,8 +80,10 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Queue </summary>
+<summary> QUEUE </summary>
 <p> 
+     
+  _(click to view)_
      
   * [Circular Queue - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Queue/Circular_Queue.cpp)
  
@@ -101,14 +107,20 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Tree </summary>
+<summary> TREE </summary>
 <p> 
+     
+  _(click to view)_
 
   * [Binary Search Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/Binary_Search_Tree.cpp)
  
   * [AVL Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/AVL_Tree.cpp)
   
   * [Splay Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/Splay_Tree.cpp)
+     
+  * [B-Tree](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/B-Tree.cpp)
+     
+  * [B-Tree - Maximum and Minimum Element](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Tree/B-Tree_Maximum_And_Minimum_Element.cpp)
 
  </p>
 </details>
@@ -116,8 +128,10 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Hash Table </summary>
+<summary> HASH TABLE </summary>
 <p> 
+     
+  _(click to view)_
 
   * [Hash Table - Class Based Implementation](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/HashTable/HashTable.cpp)
  
@@ -129,8 +143,10 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 <details>
-<summary> Heap </summary>
+<summary> HEAP </summary>
 <p> 
+     
+  _(click to view)_
      
   * [Min Heap](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Heap/MinHeap.cpp)
    
